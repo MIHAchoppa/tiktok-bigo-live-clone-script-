@@ -1,7 +1,7 @@
 {
   "name": "illgo-live-demo-component",
   "version": "0.0.2",
-  "description": "iLLgo Live - Tentcent IM live-demo-component",
+  "description": "iLLgo Live - Tencent IM live-demo-component",
   "main": "weapp/app.js",
   "scripts": {
     "dev": "./node_modules/.bin/wepy build --watch",
